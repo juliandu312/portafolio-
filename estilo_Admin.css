@@ -1,0 +1,12 @@
+#columna {
+  min-height: 100vh;
+}
+
+.nav-link{
+  transition: .5s ease;
+}
+
+
+.nav-link:hover{
+  background-color: rgb(65, 117, 130);
+}
